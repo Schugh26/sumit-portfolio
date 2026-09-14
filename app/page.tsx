@@ -97,9 +97,10 @@ export default function Home() {
 
         <div className="card">
           <h3>Undergraduate Researcher</h3>
-          <p className="subheading">Penn State University                         Summer 2026 - Present</p>
+          <p className="subheading">Penn State University                         </p>
 
           <p>
+            Summer 2026 - Present
             Working on electrical and biomedical sensing systems involving
             custom potentiostat development, ESP32-based electronics,
             electrochemical sensors, PCB design, and 3D-printed microneedle
@@ -109,10 +110,12 @@ export default function Home() {
 
         <div className="card">
           <h3>Math Grader</h3>
-          <p className="subheading">Penn State University                        August 2024 - Present</p>
-          Grade undergraduate calculus and algebra assignments and quizzes
-          with consistent, accurate evaluation.
+          <p className="subheading">Penn State University                        </p>
           <p>
+            August 2024 - Present
+            Grade undergraduate calculus and algebra assignments and quizzes
+            with consistent, accurate evaluation.
+          
             
           </p>
         </div>
