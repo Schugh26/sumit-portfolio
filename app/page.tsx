@@ -64,19 +64,12 @@ export default function Home() {
           </p>
           <p>University Park, Pennsylvania</p>
           <p>Expected Graduation: May 2027</p>
-        </div>
-      </section>
-
-      {/* Awards */}
-      <section className="section">
-        <h2>Awards</h2>
-
-        <div className="card">
           <p>
             Dean's List (Spring 2024, Fall 2024, Summer 2025, and Spring 2026)
           </p>
         </div>
       </section>
+
 
       {/* Highlighted Courses */}
       <section className="section">
