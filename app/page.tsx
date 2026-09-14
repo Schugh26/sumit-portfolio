@@ -97,7 +97,7 @@ export default function Home() {
 
         <div className="card">
           <h3>Undergraduate Researcher</h3>
-          <p className="subheading">Penn State University                         </p>
+          <p className="subheading">Penn State University</p>
 
           <p>
             Summer 2026 - Present
@@ -110,7 +110,7 @@ export default function Home() {
 
         <div className="card">
           <h3>Math Grader</h3>
-          <p className="subheading">Penn State University                        </p>
+          <p className="subheading">Penn State University</p>
           <p>
             August 2024 - Present
             Grade undergraduate calculus and algebra assignments and quizzes
