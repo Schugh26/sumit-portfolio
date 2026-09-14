@@ -115,6 +115,18 @@ export default function Home() {
           </p>
         </div>
       </section>
+      
+      {/* Awards */}
+      <section className="section">
+        <h2>Awards</h2>
+
+        <div className="card">
+          <p>
+            Awards, scholarships, academic recognition, and other achievements
+            will be added here.
+          </p>
+        </div>
+      </section>
 
 
 
