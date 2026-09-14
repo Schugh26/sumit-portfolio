@@ -226,6 +226,11 @@ a {
 .contactLinks a:hover {
   background: #333;
 }
+.resumeButtons {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+}
 
 
 /* Mobile */

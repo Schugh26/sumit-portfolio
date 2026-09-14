@@ -186,6 +186,14 @@ export default function Home() {
           >
             GitHub
           </a>
+          <a
+            href="/Sumit_Chugh_Resume.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="button"
+          >
+            View Resume
+          </a>
         </div>
       </section>
 
